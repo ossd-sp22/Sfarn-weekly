@@ -25,3 +25,6 @@ Replace the first row with your own contribution.
 | March 6   | [link to issue](https://github.com/joannakl/ossd/issues/19)    | course website    |   Opened an issue for a typo in the week 6 assignments.    |
 | March 6    | [link to contribution](https://www.openstreetmap.org/changeset/118182039)    | OpenStreetMap    | Added a point for Hi-Collar to the map, my favorite cafe which recently relocated.     |
 | March 6    | [link to contribution](https://www.openstreetmap.org/changeset/118182256)    | OpenStreetMap    | Added a point for Udon St Marks.     |
+| April 29    | [link to contribution](https://www.openstreetmap.org/changeset/120369284)    | OpenStreetMap    | Added a point for Panya, a bakery I often went to which recently closed.     |
+| April 29    | [link to contribution](https://www.openstreetmap.org/changeset/120369229)    | OpenStreetMap    | Marked Village Yokocho as disused, as it's permanently closed.     |
+
