@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | March 6    | [link to contribution](https://www.openstreetmap.org/changeset/118182256)    | OpenStreetMap    | Added a point for Udon St Marks.     |
 | April 29    | [link to contribution](https://www.openstreetmap.org/changeset/120369284)    | OpenStreetMap    | Added a point for Panya, a bakery I often went to which recently closed.     |
 | April 29    | [link to contribution](https://www.openstreetmap.org/changeset/120369229)    | OpenStreetMap    | Marked Village Yokocho as disused, as it's permanently closed.     |
+| May 9    | [link to contribution](https://github.com/joannakl/ossd/pull/32)    | course website    | Created a pull request which edits a small grammar mistake on the class site.     |
 
