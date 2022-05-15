@@ -29,3 +29,6 @@ Replace the first row with your own contribution.
 | April 29    | [link to contribution](https://www.openstreetmap.org/changeset/120369229)    | OpenStreetMap    | Marked Village Yokocho as disused, as it's permanently closed.     |
 | May 9    | [link to contribution](https://github.com/joannakl/ossd/pull/32)    | course website    | Created a pull request which edits a small grammar mistake on the class site.     |
 | May 12    | [link to contribution](https://musescore.com/user/48189423/scores/8045970)    | musescore    | Created and uploaded an ukulele arrangement of HeeKyung Na's "Up Close to Me"     |
+| May 15    | [link to contribution](https://www.openstreetmap.org/changeset/121025080)    | OpenStreetMap    | Created a point for the church I go to at home.     |
+| May 15    | [link to contribution](https://en.wikipedia.org/wiki/Special:Contributions/Sfarn48)    | Wikipedia    | Added a brief summary of the game's plot to the Rhythm Heaven Megamix page.     |
+
